@@ -1,5 +1,7 @@
+__pycache__
 9
 tinder.sqlite3
 sqlite_log
 *.json
 test.sh
+*.jpg
